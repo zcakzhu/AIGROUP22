@@ -1,1 +1,1 @@
-# AIGROUP22
+# Multi-agent AI - GROUP22
